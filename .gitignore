@@ -1,0 +1,4 @@
+# .gitignore file is for ignoring some development folders
+# like node_modules, error or log etc. 
+# .env.local, .env.dev, .env.prod
+node_modules
